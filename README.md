@@ -1,5 +1,5 @@
 # spud-gun.github.io
 
-Custom domain: www.randomspud.com
+Custom domain: www.spud-gun.github.io
 
 A blank thing.
